@@ -1,5 +1,5 @@
-token = "319587441:AAENos0CiK7UNz6vgN2vRy9VqnLvCMyWuoE"
-chat_id ="39008121"
+token = ""
+chat_id =""
 path = r"D:\Garrys_server_02_05_2017\start.bat"
 pathLog = r"D:\Garrys_server_02_05_2017\garrysmod\data\ulx_logs"
 newpath = r"D:\Garrys_server_02_05_2017"
